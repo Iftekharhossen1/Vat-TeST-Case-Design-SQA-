@@ -1,1 +1,1 @@
-# SQA-Vat-TeST-Case-Design.
+# SQA-Vat-Test-Case-Design.
